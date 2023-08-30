@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "Immersive YouTube",
+    "version": "1.0",
+    "description": "Applies an ambient effect to YouTube, changing key colors and adding a glow to your video.",
+    "permissions": [
+        "activeTab"
+    ],
+    "icons": {
+        "128": "icon.png"
+    },
+    "developer": {
+        "name": "Astro_815",
+        "url": "https://github.com/Astro815"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.youtube.com/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "css": [
+                "style.css"
+            ]
+        }
+    ]
+}

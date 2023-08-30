@@ -1,0 +1,32 @@
+#astry-bkCanva {
+    background-color: transparent;
+    /*filter: brightness(2.5) blur(6em);*/
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: 100%;
+    user-select: none;
+    filter: saturate(200%) brightness(2) blur(3em);
+}
+
+#movie_player {
+    border-radius: 1em;
+    background: transparent;
+    /*filter: brightness(0.5) contrast(1.5);*/
+}
+
+#astry-cvglow {
+    background-color: transparent;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    user-select: none;
+    pointer-events: none;
+    z-index: 99999999;
+    filter: contrast(6) brightness(75%) blur(10em) opacity(100%);
+    mix-blend-mode: plus-lighter;
+    
+}
