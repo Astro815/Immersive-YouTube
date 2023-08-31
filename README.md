@@ -39,5 +39,9 @@ let py = infVid.y / reduce;
 ```let reduce = 20;``` é para a redução de quantidade de pixel para serem renderizados no brilho, dividindo do tamanho da tela, assim resultando em mais velocidade na renderização.
 Assim a tela que deveria renderizar **1366** pixels, pela redução de 20x menor, apenas renderizará **68** pixels.
 
-### Diferença de brilho
+### Processo de Filtro
+![image](https://github.com/Astro815/Immersive-YouTube/assets/103153597/9fcebf1a-748c-4794-acf2-8794a13691ff)<br>
+Esse processo é feito em Css para que o efeito do brilho apenas de o efeito "Glow" em partes mais brilhantes da imagem.
+
+### Resultado
 ![image](https://github.com/Astro815/Immersive-YouTube/assets/103153597/8d11ac6e-d2b3-4e22-a022-ced83b55fc22)
