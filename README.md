@@ -6,6 +6,10 @@ Um extensão voltada para o Youtube que aplica um efeito ambiente ao Youtube, al
 - Alteração das cores do Youtube
 - A alteração da saturação sincronizado com o video (beta)
 
+## Exemplo
+![image](https://github.com/Astro815/Immersive-YouTube/assets/103153597/267ab755-ef2b-4592-be44-b5ee1af38b1e)
+
+
 ## Brilho do video
 Ao brilho do video utilizei um ```<canvas id="astry-cvglow">``` em Html, e o parametro ```filter``` em Css para realizar o efeito no video.
 
