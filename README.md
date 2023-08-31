@@ -1,6 +1,9 @@
 # Immersive-YouTube
 Um extensão voltada para o Youtube que aplica um efeito ambiente ao Youtube, alterando as cores principais e adicionando brilho ao seu vídeo.
 
+## Instalação
+Trata-se de uma extensão de navegador. Para proceder à instalação, faça o download do arquivo denominado ```immersiveYoutube.zip.``` Em seguida, escolha uma pasta de sua preferência e efetue a extração do referido arquivo nessa localização. Após a conclusão desse processo, acesse a seção de extensões de seu navegador. Localize e habilite a opção **"Modo de Desenvolvedor"**. Posteriormente, clique em "Carregar sem Compactação" e selecione a pasta onde a extensão foi extraída. Feito isso, é recomendável desativar o "Modo de Desenvolvedor". Com essas etapas cumpridas, o processo estará completo. Abra o navegador e acesse o YouTube para visualizar os resultados.
+
 ## Adições
 - Brilho em torno do video
 - Alteração das cores do Youtube
